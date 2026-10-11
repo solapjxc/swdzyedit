@@ -1,6 +1,0 @@
-游戏目录: E:\ttotd
-单词文件: 488 个
-逐字节一致: 488 / 488
-词条总数: 14061
-支持的字符:  !"#$%&'()*,-./0123456789:?@ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
-明文字符数: 80  密文字节数: 80
