@@ -1,0 +1,655 @@
+# 死亡打字员 中文字幕 · 译文对照表
+# 格式：英文原文<TAB>中文译文    （中间必须是制表符 Tab）
+# 只想改某句？删掉其余行、只留那句即可 —— 未列出的沿用原译文。
+# 备用通道：@槽号<TAB>中文   例如  @12	干掉他！
+# 修改后保存，重启 TodSubCN.exe 立刻生效（无需重新打包）。
+#
+We're meeting G over there.	我们在那边会合G。
+What!?	什么！？
+I've already taken care of G.	G已经被我解决了。
+This is only the beginning.	这才刚刚开始。
+You're next.	下一个就是你。
+Get him!	干掉他！
+Get them!	干掉他们！
+Let's go Gary!	加里，我们上！
+Please be safe, G!	G，一定要平安！
+No, not G...	不，G……
+How could anyone do this?	谁能干出这种事？
+How could this happen?	怎么会变成这样？
+G!	G！
+James... I tried...	詹姆斯……我尽力了……
+Gary... I tried...	加里……我尽力了……
+Don't underestimate the enemy.	别小看敌人。
+James, take this.	詹姆斯，接着。
+Gary take this.	加里，接着。
+Harry and Amy are coming to back us up.	哈里和艾米来支援我们了。
+Hurry, GO!	快走！
+Thanks, G.	谢了，G。
+I don't wanna die.	我还不想死。
+My God.	我的老天。
+Thanks, you can get outside that way.	谢了，从那边可以出去。
+There was nothing we could do.	我已经尽力了。
+Thank you so mach.	太感谢你了。
+Please take this and rescue the others.	请拿着这个，去救其他人。
+G's bloodstains.	G的血迹。
+Thank you. Please take this.	谢谢，请拿着这个。
+Seems like my advice had no effect.	看样子我的话没起作用。
+Suffer, like G did.	像G那样受死吧。
+Go, Kuarl!	上啊，库亚尔！
+Get them, Kuarl!	干掉他们，库亚尔！
+Get him, Kuarl!	干掉他，库亚尔！
+Is he invincible?	他是不死之身吗？
+The small one must be the brain!?	那个小的才是本体！？
+Sir Go-l-d...	黄金先生……
+James.	詹姆斯。
+Gary.	加里。
+Amy! Harry!	艾米！哈里！
+Thank God you're all right.	谢天谢地，你们都没事。
+What the hell's going on in this city?	这座城市到底怎么了？
+Don't know...	不知道……
+but it's very similar to the 1998 Curien case.	但和1998年的库里安事件很像。
+That case!?	那次事件！？
+James, go and prevent the confusion in the city.	詹姆斯，去阻止城里的混乱。
+Gary, go and prevent the confusion in the city.	加里，去阻止城里的混乱。
+OK.	好。
+Let's meet at Sunset Bridge.	我们在日落大桥会合。
+We're counting on you Gary.	我们靠你了，加里。
+We're counting on you, James.	我们靠你了，詹姆斯。
+Dogs of the AMS... time they made a move.	AMS的狗……该他们动了。
+No! Help me!	不！救救我！
+Need to hurry.	得快点。
+Gary, let's hurry.	加里，快点。
+What?	什么？
+Thank you for rescuing me.	谢谢你救了我。
+If only I'd noticed sooner.	要是我早点发现就好了。
+Don't come don't come.	别过来，别过来。
+Go away go away.	走开，走开。
+There are more inside.	里面还有。
+Who could do such a thing.	谁会干这种事啊。
+I've had it.	我受够了。
+We're flying right over the Sunset Bridge.	我们正飞越日落大桥。
+Something or someone has... taken... the city.	有什么……或什么人……夺走了整座城市。
+Let's go, Gary.	加里，我们走。
+Help! help!	救命！救命！
+Help me!, help me!	救救我！救救我！
+Thanks for saving me.	谢谢你救了我。
+Heard a voice over there.	我听到那边有人说话。
+Get back.	退回去。
+Please get back.	请退回去。
+Can we get to Sunset bridge this way?	这条路能到日落大桥吗？
+Yes, go straight and you'll get to Sunset bridge.	可以，一直走就能到日落大桥。
+Thank you.	谢谢你。
+Go straight ahead and you'll get to the wharf.	一直往前走就能到码头。
+What are they?	那是什么？
+What's wrong with this city?!	这座城市到底怎么了！？
+Thanks, Sunset Bridge is just ahead.	谢了，日落大桥就在前面。
+Looks like they didn't make it.	看来他们没能逃出来。
+My dad's still inside.	我爸还在里面。
+Don't worry, I'll get him out.	别担心，我会把他救出来。
+Don't worry, we'll get him out.	别担心，我们会把他救出来。
+Trust me.	相信我。
+Trust us.	相信我们。
+What the...	这……
+My son...	我的儿子……
+He's waiting outside.	他在外面等你。
+He's waiting for you out side.	他在外面等你。
+Thank you for saving my life.	谢谢你救了我的命。
+Mom...	妈妈……
+This has gone too far.	这太过分了。
+There's no way down...	下去的路没有了……
+The control tower must be up there.	控制塔一定在上面。
+That was close.	好险。
+Thanks, I owe you.	谢了，我欠你一次。
+How could any one do this?	谁能干出这种事？
+This is too much...	这太……
+can't let this go on.	我不能就这样算了。
+The chaos of this city's increasing.	这座城市的混乱越来越严重了。
+The state of this city's too much!	这座城市已经糟透了！
+Well it's about that.	差不多就是这样。
+It seems like Goldman...	看起来是戈德曼……
+Wait! We'll talk later.	等等！我们回头再说。
+I was looking for you, James.	我正在找你，詹姆斯。
+I was looking for you Gary.	我正在找你，加里。
+We were looking for you Gary.	我们正在找你，加里。
+What's going on?	怎么回事？
+The city's chaos is increasing.	这座城市的混乱正在加剧。
+This city, the state that it's in...	这座城市……这个状况……
+this is too much!	实在太过分了！
+What!? Harry, we'll talk later!	什么！？哈里，我们回头再说！
+Don't care who it is,	不管是谁，
+no one's gonna get away with this.	都别想逃掉。
+No one's gonna get away with this.	谁都别想逃掉。
+Which one?	哪一个？
+Right.	右。
+Left.	左。
+What's gonna happen to this city?	这座城市会变成什么样？
+The bridge has been destroyed.	大桥被炸毁了。
+It's been a while, hasn't it,	好久不见了，
+My friends from the AMS?	AMS的各位朋友。
+It's me, Goldman.	我是戈德曼。
+Well, the 1998 Curien case.	要说1998年的库里安事件。
+Guess who was behind it.	幕后黑手是戈德曼。
+It was Goldman.	就是戈德曼。
+He's the head of an eminent financial group	他是某著名财团的掌门人，
+and an expert on the Genome theory.	也是基因理论的权威。
+We have to stop him...	我们必须阻止他……
+Yes, this is Amy.	对，我是艾米。
+Yes... yes...	对……对……
+It seems that Goldman left a message for us.	看来戈德曼给我们留了口信。
+What? From Goldman!?	什么！？戈德曼！？
+From Goldman? It can't be.	戈德曼的？不可能。
+Well, he says that he'll be waiting at the colosseum	他说他会在城市北边的
+on the north side of the city.	斗兽场等我们。
+The colosseum?	斗兽场？
+It might be a trap... but let's go on.	可能是陷阱……但还是去吧。
+James, let's split from here.	詹姆斯，我们从这里分头行动。
+Gary, let's split from here	加里，我们从这里分头行动。
+James, you guys take the underground passage.	詹姆斯，你们走地下通道。
+We'll go this way.	我们走这边。
+James, you take the underground passage.	詹姆斯，你走地下通道。
+Gary, you take the underground passage.	加里，你走地下通道。
+I'll call you when something happens.	有情况我会联系你。
+My friends went inside.	我的朋友们进去了。
+But they're not back yet.	但他们还没回来。
+I told them not to go...	我告诉过他们别去的……
+Help, my friends are inside.	救命，我朋友们还在里面。
+It's me, Gary.	是我，加里。
+James! Come quickly!	詹姆斯！快来！
+Something terrible is happening!	出大事了！
+Gary! Come quickly!	加里！快来！
+we're in a serious state!	情况很紧急！
+No~ Harry...	不……哈里……
+Amy! What happened Amy!?	艾米！艾米怎么了！？
+James, back me up!	詹姆斯，支援我！
+Gary, back me up!	加里，支援我！
+The water gate's closing.	水闸要关了。
+Harry, looks like we can go around from the right.	哈里，我们从右边绕过去。
+Are you all right James?	你没事吧，詹姆斯？
+Are you all right, Gary?	你没事吧，加里？
+Yeah, I'm hanging on.	嗯，我还撑得住。
+Hurry and run to somewhere safe!	快跑，去安全的地方！
+Ok, thank's for rescuing me.	好，谢谢你救了我。
+James, over there!	詹姆斯，那边！
+Gary, over there!	加里，那边！
+Let's hurry.	快点。
+I'll get you.	我来救你。
+Gary, come on let's go and get him.	加里，走，我们去救他。
+Everything's set.	一切都准备就绪。
+All we need to do is wait...	我们只需要等……
+What happened to Amy and Harry!?	艾米和哈里怎么了！？
+Have to hurry.	得快点。
+We have no time. Let's hurry Gary.	没时间了。加里，快点。
+People of the AMS, I am Goldman.	AMS的人们，我是戈德曼。
+I don't care if you people try to get in my way or not.	你们尽管来拦我，我无所谓。
+In time you'll find out who's right	时候一到，你们就会知道谁对。
+This is a present from me to you.	这是我送给你们的礼物。
+Look at your left.	看看你们左边。
+Well friends,	那么，朋友们，
+I look forward to meeting you people again...	很期待再见到你们……
+Run!	快跑！
+Are you all right?	你没事吧？
+Is this the colosseum?	这就是斗兽场？
+!?	！？
+Man went to far...	人玩得太过火了……
+That is why they die.	所以他们才会死。
+Wharf	码头
+The water gate's still blocked...	水闸还是堵着……
+James! Over there!	詹姆斯！那边！
+Gary! Over there!	加里！那边！
+What is it!?	那是什么！？
+Thank you. I'll open the water gate for you.	谢了。我来给你们开闸。
+James! Behind you!	詹姆斯！你身后！
+Gary! Behind you!	加里！你身后！
+We'll go from the left.	我们从左边走。
+Gary! After him!	加里！跟上他！
+I'm not gonna let you get away.	我绝不会让你跑掉。
+Too late...	太迟了……
+I ran from the colosseum. Thanks for saving me.	我从斗兽场逃出来。谢谢你救了我。
+Power's still coming.	电还没恢复。
+Look to your right.	看看你们右边。
+Amy, Harry, are you all right?	艾米、哈里，你们没事吧？
+I'm all right... but Harry's...	我没事……但是哈里他……
+No...	不……
+No... Why...	不……为什么……
+James...	詹姆斯……
+Gary...	加里……
+The car's parked in the city square...	车停在市中心广场……
+the top floor... building at point A0063...	A0063点……那栋楼的顶层……
+he's there...	他就在那里……
+Go... James.	走吧……詹姆斯。
+Go... Gary.	走吧……加里。
+Thanks, Harry.	谢了，哈里。
+Goldman, I'm not gonna let you get away with this!	戈德曼，我绝不会让你逍遥法外！
+Goldman... I'll get you.	戈德曼……我会找你算账。
+Our Emperor shall awaken soon... hurry friends.	我们的皇帝很快就会苏醒……朋友们，快点。
+Point A0063 is just ahead.	A0063点就在前面。
+Gary, let's go!	加里，我们走！
+This must be the car.	这应该就是那辆车。
+Let's get in.	上车吧。
+You!	你！
+This can't be...	这不可能……
+Sir Goldman has given me a second chance.	戈德曼先生给了我第二次机会。
+Don't even think you can get past me.	别以为你能过我这一关。
+Go Kuarl!	上啊，库亚尔！
+Remember, there's no such thing as a second chance.	记住，没有第二次机会这回事。
+Too bad, you're better off that way!	太可惜了，你这样更好！
+I won't let you have it your own way any more!	我不会再让你为所欲为！
+Gary let's go!	加里，我们走！
+Let's go!	走吧！
+So this is Goldman's headquarters.	这就是戈德曼的总公司。
+Can't be... You're...	不可能……你是……
+Can't be...	不可能……
+...I've been waiting for this time to come.	……我一直在等这一天。
+You have no future.	你们没有未来。
+There's no future for you people.	你们这些人类没有未来。
+Either I get you or the Emperor will.	要么我杀了你，要么皇帝杀了你。
+Either way, your fate is in our hands.	不管怎样，你们的命运都在我们手里。
+Either way, there's nothing you people can do.	不管怎样，你们什么都做不了。
+Only man himself can control his fate. You're nothing!	只有人能掌控自己的命运。你们什么都不是！
+You're the one who's gonna get defeated, Magician!	会被打败的是你，魔术师！
+It's too quiet...	太安静了……
+The enemy's started an all-out attack.	敌人开始总攻了。
+How many are there!?	有多少！？
+Prepare yourself, Goldman.	准备好吧，戈德曼。
+I'm coming to get you, Goldman.	我来取你的命，戈德曼。
+At last you've come...friends.	你们终于来了……朋友们。
+The door of fate shall open...	命运之门即将开启……
+It's like they're inviting me in.	感觉就像是在请我进去。
+It's like they're inviting us in.	感觉就像是在请我们进去。
+Gary, be careful.	加里，小心。
+No turning back now...	已经没有退路了……
+What is this place!?	这里是什么地方！？
+I've been waiting for you... friends.	我一直在等你们……朋友们。
+GOLDMAN!	戈德曼！
+Do you know what you're doing!?	你知道自己在做什么吗！？
+I'm fully aware of what I'm doing. Can't you see?	我非常清楚自己在做什么。你看不出来吗？
+Man committed a sin...	人类犯下了罪孽……
+disturbing the life cycle of nature...	扰乱了自然的生命循环……
+The original sin that man is responsible to...	人类本应承担这份原始之罪……
+To protect the life cycle.	来守护生命循环。
+I have made a creature to rule over mankind...	我造出了一个统治人类的造物……
+This is the final battle!	这是最后的战斗！
+Show yourself! Our new ruler the 'Emperor'!	现身吧！新的统治者——皇帝！
+I am... I am...	我……我是……
+I am the one who rules over nature.	我就是自然的主宰。
+I shall destroy... and hate mankind.	我将毁灭……并憎恨人类。
+I am the Emperor!	我就是皇帝！
+UP.	起来。
+Unlocked.	封印解开了。
+Fate will decide which survives.	命运会决定谁能活下来。
+Friends, it is not over yet.	朋友们，还没有结束。
+Is that all you have to say!?	你就只想说这个！？
+In time... a successor will come.	时候一到……就会有继承者出现。
+Farewell, friends.	再见了，朋友们。
+It's finally over.	终于结束了。
+Did we really do the right thing?	我们真的做对了吗？
+Don't know... but...	不知道……但是……
+We have to find the answer by our selves.	我们必须自己找到答案。
+As long as we try to keep on living...	只要我们还活着……
+Good-bye Goldman.	再见了，戈德曼。
+Goldman... I don't care if a successor comes or not.	戈德曼……不管有没有继承者，我都不在乎。
+I'll go on fighting.	我会继续战斗。
+As long as we have the will to live...	只要我们还有求生的意志……
+Is it really over...?	真的结束了吗……？
+Was I really right?	我做对了吗？
+Someday...	总有一天……
+Until the answer is found...	在找到答案之前……
+ROGAN!	罗根！
+G and Harry are all right. Let's leave the rest to them.	G和哈里都没事，剩下的交给他们吧。
+On we go, to our next battle.	走吧，去迎接下一场战斗。
+As long as we have the will to live.	只要我们有求生的意志。
+As long as there is an answer...	只要还有答案……
+No more fooling around.	别再胡闹了。
+Leave it to me.	交给我吧。
+Please, help him!	求你，救救他！
+Need some light.	需要点光。
+Let's hurry!	快点！
+...	……
+The Curien Mansion Incident...	库里安宅邸事件……
+The mad scientist Dr. Curien.	疯狂科学家库里安博士。
+They had to face countless atrocious enemies...	他们不得不面对无数凶残的敌人……
+They battled on, taking injuries and zapping zombies.	他们一路苦战，负伤累累，击倒僵尸。
+"Magician," the ultimate opponent.	最终对手——“魔术师”。
+Against all odds, they at last defeated him.	他们排除万难，终于战胜了他。
+They were sure that they had resolved the incident...	他们本以为事件已经解决，然而……
+Yet now, one year later, unprecedented terror looms...	然而一年之后，前所未有的恐怖笼罩而来……
+AMS agents "Rogan" and "G" went to solve it.	AMS特工“罗根”与“G”前去解决此事。
+#
+# ---- 以下为槽号备用映射，一般不用改 ----
+@2	我们在那边会合G。
+@3	什么！？
+@4	G，我已经解决他了。
+@5	这才刚刚开始。
+@6	下一个就是你。
+@7	干掉他！
+@8	干掉他们！
+@9	加里，我们上！
+@10	G，一定要平安！
+@11	不，不是G……
+@12	谁能干出这种事？
+@13	怎么会变成这样？
+@14	G！
+@15	詹姆斯……我尽力了……
+@16	加里……我尽力了……
+@17	别小看敌人。
+@18	詹姆斯，接着。
+@19	加里，接着。
+@20	哈里和艾米来支援我们了。
+@21	快走！
+@22	谢了，G。
+@23	我还不想死。
+@24	我的老天。
+@25	谢了，从那边可以出去。
+@26	我们已经无能为力了。
+@27	太感谢你了。
+@28	请拿着这个，去救其他人。
+@29	G的血迹。
+@30	谢谢，请拿着这个。
+@32	看样子我的话没起作用。
+@33	像G那样受苦吧。
+@34	像G那样受苦吧。
+@35	上啊，库亚尔！
+@36	干掉他们，库亚尔！
+@37	干掉他，库亚尔！
+@38	他是不死之身吗？
+@39	那个小的才是本体！？
+@40	黄金先生……
+@41	詹姆斯。
+@42	加里。
+@43	艾米！哈里！
+@44	谢天谢地，你们都没事。
+@45	这座城市到底怎么了？
+@46	不知道……
+@47	但和1998年的库里安事件很像。
+@48	那次事件！？
+@49	詹姆斯，去阻止城里的混乱。
+@50	加里，去阻止城里的混乱。
+@51	好。
+@52	我们在日落大桥会合。
+@53	我们靠你了，加里。
+@54	我们靠你了，詹姆斯。
+@61	AMS的狗……该他们动了。
+@62	不！救救我！
+@63	得快点。
+@64	加里，快点。
+@65	什么？
+@66	谢谢你救了我。
+@67	谁能干出这种事？
+@68	要是我早点发现就好了。
+@69	谁能干出这种事？
+@70	别过来，别过来。
+@71	走开，走开。
+@72	里面还有。
+@73	谁会干这种事啊。
+@74	我受够了。
+@75	我们正飞越日落大桥。
+@76	有什么……或什么人……夺走了整座城市。
+@78	得快点。
+@79	加里，我们走。
+@80	救命！救命！
+@81	救救我！救救我！
+@82	谢谢你救了我。
+@83	我听到那边有人说话。
+@84	退回去。
+@85	请退回去。
+@86	这条路能到日落大桥吗？
+@87	可以，一直走就能到日落大桥。
+@89	谢谢你。
+@90	一直往前走就能到码头。
+@91	那是什么？
+@92	这座城市到底怎么了！？
+@93	谢了，日落大桥就在前面。
+@94	看来他们没能逃出来。
+@99	我爸还在里面。
+@100	别担心，我会把他救出来。
+@101	别担心，我们会把他救出来。
+@102	相信我。
+@103	相信我们。
+@104	这……
+@105	谁能干出这种事？
+@106	我的儿子……
+@107	他在外面等你。
+@108	他在外面等你。
+@109	谢谢你救了我的命。
+@110	妈妈……
+@111	这太过分了。
+@113	下去的路没有了……
+@114	控制塔一定在上面。
+@115	好险。
+@116	谢了，我欠你一次。
+@117	谁能干出这种事？
+@118	这太……
+@119	我不能就这样算了。
+@120	詹姆斯。
+@121	加里。
+@122	艾米！哈里！
+@123	这座城市的混乱越来越严重了。
+@124	艾米！哈里！
+@125	这座城市已经糟透了！
+@126	差不多就是这样。
+@127	看起来是戈德曼……
+@128	等等！我们回头再说。
+@129	艾米！哈里！
+@130	我正在找你，詹姆斯。
+@131	我正在找你，加里。
+@132	我们正在找你，加里。
+@133	怎么回事？
+@134	这座城市的混乱正在加剧。
+@135	这座城市……这个状况……
+@136	实在太过分了！
+@137	什么！？哈里，我们回头再说！
+@138	不管是谁，
+@139	都别想逃掉。
+@140	谁都别想逃掉。
+@141	哪一个？
+@142	右。
+@143	左。
+@144	这座城市会变成什么样？
+@145	大桥被炸毁了。
+@156	好久不见了，
+@157	AMS的各位朋友。
+@158	是我，戈德曼。
+@159	要说1998年的库里安事件。
+@160	猜猜幕后黑手是谁。
+@161	就是戈德曼。
+@162	他是某著名财团的掌门人，
+@163	也是基因理论的权威。
+@164	我们必须阻止他……
+@165	对，我是艾米。
+@166	对……对……
+@167	看来戈德曼给我们留了口信。
+@168	什么！？戈德曼！？
+@169	戈德曼的？不可能。
+@170	他说他会在城市北边的
+@171	斗兽场等我们。
+@172	斗兽场？
+@173	可能是陷阱……但还是去吧。
+@174	詹姆斯，我们从这里分头行动。
+@175	加里，我们从这里分头行动。
+@176	詹姆斯，你们走地下通道。
+@177	我们走这边。
+@178	詹姆斯，你走地下通道。
+@179	我们走这边。
+@180	加里，你走地下通道。
+@181	我们走这边。
+@182	好。
+@183	有情况我会联系你。
+@184	我的朋友们进去了。
+@185	但他们还没回来。
+@186	我告诉过他们别去的……
+@187	救命，我朋友们还在里面。
+@189	詹姆斯。
+@190	是我，加里。
+@191	詹姆斯！快来！
+@192	出大事了！
+@193	加里！快来！
+@194	情况很紧急！
+@195	不……哈里……
+@196	艾米！艾米怎么了！？
+@197	詹姆斯，支援我！
+@198	加里，支援我！
+@199	水闸要关了。
+@202	哈里，我们从右边绕过去。
+@203	你没事吧，詹姆斯？
+@204	你没事吧，加里？
+@205	嗯，我还撑得住。
+@206	快跑，去安全的地方！
+@207	好，谢谢你救了我。
+@209	詹姆斯，那边！
+@210	加里，那边！
+@211	快点。
+@212	这……
+@213	什么！？
+@214	谁能干出这种事？
+@215	我来救你。
+@216	加里，走，我们去救他。
+@221	一切都准备就绪。
+@222	我们只需要等……
+@223	艾米和哈里怎么了！？
+@224	得快点。
+@225	没时间了。加里，快点。
+@226	AMS的人们，我是戈德曼。
+@227	你们尽管来拦我，我无所谓。
+@228	时候一到，你们就会知道谁对。
+@229	这是我送给你们的礼物。
+@230	看看你们左边。
+@231	艾米！哈里！
+@232	那么，朋友们，
+@233	很期待再见到你们……
+@234	快跑！
+@235	你没事吧？
+@237	这就是斗兽场？
+@238	！？
+@239	什么？
+@240	谁能干出这种事？
+@241	快跑，去安全的地方！
+@242	人玩得太过火了……
+@243	所以他们才会死。
+@245	码头
+@246	水闸还是堵着……
+@247	詹姆斯！那边！
+@248	加里！那边！
+@249	那是什么！？
+@250	谢了。我来给你们开闸。
+@251	詹姆斯！你身后！
+@252	加里！你身后！
+@253	我们从左边走。
+@254	加里！跟上他！
+@255	我绝不会让你跑掉。
+@256	太迟了……
+@257	谁能干出这种事？
+@258	我从斗兽场逃出来。谢谢你救了我。
+@259	电还没恢复。
+@260	看看你们右边。
+@261	艾米、哈里，你们没事吧？
+@262	我没事……但是哈里他……
+@263	不……
+@264	不……为什么……
+@265	詹姆斯……
+@266	加里……
+@267	车停在市中心广场……
+@268	A0063点……那栋楼的顶层……
+@269	他就在那里……
+@270	走吧……詹姆斯。
+@271	走吧……加里。
+@272	谢了，哈里。
+@273	戈德曼，我绝不会让你逍遥法外！
+@274	戈德曼……我会找你算账。
+@275	我们的皇帝很快就会苏醒……朋友们，快点。
+@276	A0063点就在前面。
+@277	加里，我们走！
+@278	这应该就是那辆车。
+@279	上车吧。
+@280	你！
+@281	这不可能……
+@282	戈德曼先生给了我第二次机会。
+@283	别以为你能过我这一关。
+@284	上啊，库亚尔！
+@285	记住，没有第二次机会这回事。
+@286	什么！？
+@287	太可惜了，你这样更好！
+@288	我不会再让你为所欲为！
+@289	加里，我们走！
+@290	走吧！
+@291	这就是戈德曼的总公司。
+@292	不可能……你是……
+@293	不可能……
+@294	……我一直在等这一天。
+@295	你们没有未来。
+@296	你们这些人类没有未来。
+@297	要么我杀了你，要么皇帝杀了你。
+@298	不管怎样，你们的命运都在我们手里。
+@299	不管怎样，你们什么都做不了。
+@300	只有人能掌控自己的命运。你们什么都不是！
+@301	会被打败的是你，魔术师！
+@302	太安静了……
+@303	敌人开始总攻了。
+@304	有多少！？
+@305	准备好吧，戈德曼。
+@306	我来取你的命，戈德曼。
+@307	你们终于来了……朋友们。
+@308	命运之门即将开启……
+@309	感觉就像是在请我进去。
+@310	感觉就像是在请我们进去。
+@311	加里，小心。
+@312	已经没有退路了……
+@313	这里是什么地方！？
+@314	我一直在等你们……朋友们。
+@315	戈德曼！
+@316	你知道自己在做什么吗！？
+@317	我非常清楚自己在做什么。你看不出来吗？
+@318	人类犯下了罪孽……
+@319	扰乱了自然的生命循环……
+@320	人类本应承担这份原始之罪……
+@321	来守护生命循环。
+@322	我造出了一个统治人类的造物……
+@323	这是最后的战斗！
+@324	现身吧！新的统治者——皇帝！
+@325	我……我是……
+@326	我就是自然的主宰。
+@327	我将毁灭……并憎恨人类。
+@328	我就是皇帝！
+@329	起来。
+@330	封印解开了。
+@331	命运会决定谁能活下来。
+@332	朋友们，还没有结束。
+@333	你就只想说这个！？
+@334	时候一到……就会有继承者出现。
+@335	再见了，朋友们。
+@337	终于结束了。
+@338	詹姆斯。
+@339	我们真的做对了吗？
+@340	不知道……但是……
+@341	我们必须自己找到答案。
+@342	只要我们还活着……
+@343	再见了，戈德曼。
+@344	戈德曼……不管有没有继承者，我都不在乎。
+@345	我会继续战斗。
+@346	只要我们还有求生的意志……
+@347	真的结束了吗……？
+@348	我做对了吗？
+@349	总有一天……
+@350	在找到答案之前……
+@351	詹姆斯。
+@352	加里。
+@353	罗根！
+@354	G和哈里都没事，剩下的交给他们吧。
+@355	走吧，去迎接下一场战斗。
+@356	只要我们有求生的意志。
+@357	只要还有答案……
+@358	别再胡闹了。
+@359	交给我吧。
+@360	求你，救救他！
+@361	需要点光。
+@362	快点！
+@363	加里，快点。
+@365	……
+@366	库里安宅邸事件……
+@367	疯狂科学家库里安博士。
+@368	他们不得不面对无数凶残的敌人……
+@369	他们一路苦战，负伤累累，击倒僵尸。
+@370	最终对手——“魔术师”。
+@371	他们排除万难，终于战胜了他。
+@372	他们本以为事件已经解决……
+@373	然而一年之后，前所未有的恐怖笼罩而来……
+@374	AMS特工“罗根”与“G”前去解决此事。
