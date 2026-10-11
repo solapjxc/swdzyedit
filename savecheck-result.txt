@@ -1,4 +1,0 @@
-临时副本: C:\Users\cyl\AppData\Local\Temp\totd-savecheck-db4f12ce
-测试文件: Z000L010.bin, Z000L020.bin, Z000L030.bin, Z000L040.bin, Z000L050.bin, Z000L060.bin
-
-通过 47 项，失败 0 项
