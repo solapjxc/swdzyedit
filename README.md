@@ -27,7 +27,7 @@ https://www.myabandonware.com/game/the-typing-of-the-dead-bee#download
 
 需要NET Framework 4.x以上环境，一般win10以上自带，没有的话自己安装。
 
-想改代码就改 `WordEditor.cs`，然后双击 `build.bat` 重新编译。编译完会自动跑一次自检。
+想改代码就改 `WordEditor.cs`，然后双击 `build.bat` 重新编译。有BUG的话，扔给大模型，让它改。
 
 ## 使用方法：
 
